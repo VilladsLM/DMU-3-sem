@@ -20,10 +20,6 @@ img {
   grid-template-columns: 1fr 2fr;
 }
 
-p {
-  color: red;
-}
-
 @media only screen and (max-width: 500px) {
   .grid {
     grid-template-columns: 1 fr;
