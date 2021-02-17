@@ -1,0 +1,25 @@
+#overskrift {
+  color: blue;
+  font-style: bold;
+}
+
+/* a:visited {
+  color: fuchsia;
+} */
+#a {
+  color: blue;
+}
+
+#table {
+  border-collapse: separate;
+  height: 100px;
+  border: 1px solid blue;
+  vertical-align: top;
+  border-color: blue;
+}
+
+img {
+  width: 50px;
+  max-height: 100%;
+  display: block;
+}

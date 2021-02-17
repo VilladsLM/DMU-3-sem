@@ -1,0 +1,15 @@
+#overskrift {
+  font-size: 1.5em;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: fuchsia;
+}
+
+ol {
+  padding: 20;
+  border: solid red;
+  width: 100px;
+}
